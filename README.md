@@ -1,4 +1,4 @@
 # farrukhh
 This is my six Git Repository.
 <br>
-imtiaz
+imtiaz{farruk}
